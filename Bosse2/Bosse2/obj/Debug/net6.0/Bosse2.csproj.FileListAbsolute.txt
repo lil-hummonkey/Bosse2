@@ -1,0 +1,15 @@
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\bin\Debug\net6.0\Bosse2.exe
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\bin\Debug\net6.0\Bosse2.deps.json
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\bin\Debug\net6.0\Bosse2.runtimeconfig.json
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\bin\Debug\net6.0\Bosse2.dll
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\bin\Debug\net6.0\Bosse2.pdb
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.csproj.AssemblyReference.cache
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.AssemblyInfoInputs.cache
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.AssemblyInfo.cs
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.csproj.CoreCompileInputs.cache
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.dll
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\refint\Bosse2.dll
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.pdb
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\Bosse2.genruntimeconfig.cache
+C:\Users\hector.mcewen\Desktop\code\Prg. 1\Bosse2\Bosse2\Bosse2\obj\Debug\net6.0\ref\Bosse2.dll
